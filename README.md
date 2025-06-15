@@ -22,6 +22,6 @@ Etc: Lombok, Validation, Spring Security
 질문 및 답변 추천 기능
 
 -신규 서비스-
-질문 및 답변 정렬 (최신순, 추천순)
 
+질문 및 답변 정렬 (최신순, 추천순)
 조회수 카운트 기능
